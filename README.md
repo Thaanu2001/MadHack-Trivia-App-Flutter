@@ -1,10 +1,12 @@
-# madhack_trivia
+# Trivia Application using Flutter Language
 
-A new Flutter project.
+![logo](https://user-images.githubusercontent.com/55238280/219873213-1936c155-1cf5-4b30-b816-340ab08f3aec.png)
+
+[UI Design](https:/tinyurl.com/madhack-flutter)
+
+[API Documentation](tinyurl.com/madhack-flutter-2)
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
